@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorPicking", "ColorPicking\ColorPicking.csproj", "{99EAF9C9-547B-4034-842D-BD428BAFEDD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimationSplashTests", "AnimationSplashTests\AnimationSplashTests.csproj", "{515298E7-9303-47CA-A751-54F22B037EC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragDropPropertyColor", "MoveShapesAroundExample\DragDropPropertyColor.csproj", "{37A6AE55-0F64-42A6-9602-A53D7FD8545E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragDropRectangles", "DragDropRectangles\DragDropRectangles.csproj", "{21094218-52D4-4222-966D-7EA900BA5490}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateIslandDragDrop", "PrivateIslandDragDrop\PrivateIslandDragDrop.csproj", "{F66DF674-FA48-4137-8632-D451C57488DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPanelTrials", "StackPanelTrials\StackPanelTrials.csproj", "{C7B186A1-4585-4A69-9C33-304FBB468B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EAF9C9-547B-4034-842D-BD428BAFEDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EAF9C9-547B-4034-842D-BD428BAFEDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EAF9C9-547B-4034-842D-BD428BAFEDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EAF9C9-547B-4034-842D-BD428BAFEDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515298E7-9303-47CA-A751-54F22B037EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515298E7-9303-47CA-A751-54F22B037EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515298E7-9303-47CA-A751-54F22B037EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515298E7-9303-47CA-A751-54F22B037EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A6AE55-0F64-42A6-9602-A53D7FD8545E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A6AE55-0F64-42A6-9602-A53D7FD8545E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A6AE55-0F64-42A6-9602-A53D7FD8545E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A6AE55-0F64-42A6-9602-A53D7FD8545E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21094218-52D4-4222-966D-7EA900BA5490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21094218-52D4-4222-966D-7EA900BA5490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21094218-52D4-4222-966D-7EA900BA5490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21094218-52D4-4222-966D-7EA900BA5490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66DF674-FA48-4137-8632-D451C57488DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66DF674-FA48-4137-8632-D451C57488DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66DF674-FA48-4137-8632-D451C57488DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66DF674-FA48-4137-8632-D451C57488DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B186A1-4585-4A69-9C33-304FBB468B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B186A1-4585-4A69-9C33-304FBB468B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B186A1-4585-4A69-9C33-304FBB468B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B186A1-4585-4A69-9C33-304FBB468B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB669ECE-79DC-4CB0-A184-F9D76443B53A}
+	EndGlobalSection
+EndGlobal
